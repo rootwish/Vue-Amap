@@ -1,5 +1,5 @@
 # vue-amap
-
+基于vue2的单页面地图
 > A Vue.js project
 
 ## Build Setup
