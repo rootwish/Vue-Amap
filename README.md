@@ -1,6 +1,6 @@
 # vue-amap
 基于vue2的单页面地图
-> A Vue.js project
+> 使用高德api
 
 ## Build Setup
 
