@@ -1,4 +1,4 @@
-// 可能是我的node版本问题，不用严格模式使用ES6语法会报错
+// 用严格模式使用ES6语法
 "use strict";
 const models = require('./db');
 const express = require('express');
